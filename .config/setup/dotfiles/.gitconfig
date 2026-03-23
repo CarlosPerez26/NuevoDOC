@@ -1,0 +1,10 @@
+[user]
+	name = carlos.perez0826
+	email = carlos.perez0826@proton.me
+
+[credential]
+	helper = store
+
+[core]
+	autocrlf = false
+	safecrlf = false
